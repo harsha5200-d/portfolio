@@ -6,7 +6,7 @@ Welcome to my professional portfolio! I am a passionate Full Stack Developer spe
 
 [![Live Project](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsha5200-d.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsha5200-d)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsha-vardhan)
+
 
 </div>
 
