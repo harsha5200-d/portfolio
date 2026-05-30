@@ -261,13 +261,13 @@ header{
 }
 
 /* ================= PROJECTS ================= */
-/* ================= PROJECTS ================= */
+
 
 /* SECTION */
 .projects {
   padding: 80px 10%;
-  background: #0f0f0f;
-  color: white;
+  background: #f5f7fb;
+  color: #1a1a1a;
 }
 
 .title {
@@ -281,7 +281,7 @@ header{
 }
 
 .title p {
-  color: #aaa;
+  color: #1a1a1a;
 }
 
 /* GRID */
